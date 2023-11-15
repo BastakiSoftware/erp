@@ -1,2 +1,2 @@
-# django_project
-Django skelton project with custom user model
+# Bastaki ERP
+Bastaki Enterprize Resource Planning Platform
