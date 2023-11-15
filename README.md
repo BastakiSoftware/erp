@@ -1,2 +1,4 @@
 # Bastaki ERP
-Bastaki Enterprize Resource Planning Platform
+Bastaki Enterprise Resource Planning Platform
+
+An open extensible Enterprise Resource Planning platform from Bastaki Software Solutions
